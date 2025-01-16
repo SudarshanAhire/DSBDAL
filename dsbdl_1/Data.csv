@@ -1,0 +1,20 @@
+Country,Age,Salary,Purchased
+India,44,72000,No
+Thailand ,27,48000,Yes
+Indonesia,30,54000,No
+China,38,61000,No
+India,40,,Yes
+China,35,58000,Yes
+Thailand ,,52000,No
+India,48,79000,Yes
+Indonesia,50,83000,No
+Thailand ,37,67000,Yes
+India,25,,No
+Thailand ,36,60000,No
+Indonesia,42,64000,Yes
+India,,40000,Yes
+Thailand ,52,90000,Yes
+Indonesia,,55000,No
+China,41,,Yes
+India,29,48000,No
+China,43,70000,Yes
